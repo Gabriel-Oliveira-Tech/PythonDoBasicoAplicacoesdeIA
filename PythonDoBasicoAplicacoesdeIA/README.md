@@ -49,4 +49,15 @@ E um editor de texto nesse caso VScode
 
 
 
+Estudo de Caso 1: 
 
+Criar um assistente de IA para programação Python, em Python
+
+Para executar via VsCode cole streamlit run EC1.py
+Para parar a execução basta dar um Ctrl + C no terminal aonde esta sendo executado
+
+Foi criado com stremlit,utilizado para criações web.
+
+Esse estudo de caso estava pronto sendo usado para analise e estudo.
+
+Utiliza uma API que chama uma LLM. 
