@@ -49,7 +49,7 @@ E um editor de texto nesse caso VScode
 
 
 
-Estudo de Caso 1: 
+Estudo de Caso 1(Visão geral): 
 
 Criar um assistente de IA para programação Python, em Python
 
@@ -60,4 +60,14 @@ Foi criado com stremlit,utilizado para criações web.
 
 Esse estudo de caso estava pronto sendo usado para analise e estudo.
 
-Utiliza uma API que chama uma LLM. 
+Utiliza uma API que chama uma LLM.
+
+
+Pypi = repositorio aonde se encontra pacotes Python.
+
+Não use pacotes que tem procedencia duvidusa
+
+antes de realizar uma tarefa realizar uma busca se já não exite um pacote com essas funções
+
+
+
